@@ -49,6 +49,7 @@ It follows a **clean architecture pattern** using controllers, services, and mid
 ---
 
 ## 🏗️ Project Structure
+```
 ├── config/ # Configuration files
 ├── controllers/ # Route controllers
 ├── database/ # Database connection
@@ -60,7 +61,7 @@ It follows a **clean architecture pattern** using controllers, services, and mid
 ├── uploads/ # Uploaded images
 ├── server.js # Entry point
 └── package.json
-
+```
 
 ---
 
