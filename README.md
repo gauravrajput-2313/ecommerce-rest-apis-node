@@ -80,18 +80,22 @@ It follows a **clean architecture pattern** using controllers, services, and mid
 
 1️⃣ Clone Repository
 
-```bash
+```
 git clone https://github.com/gauravrajput-2313/ecommerce-rest-apis-node.git
 cd ecommerce-rest-apis-node
-
+```
 2️⃣ Install Dependencies
+```
 npm install
-
+```
 3️⃣ Setup Environment Variables
+```
 PORT=5000
 DB_URL=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
-
+```
 4️⃣ Run the Application
+```
 npm run dev
 npm start
+```
